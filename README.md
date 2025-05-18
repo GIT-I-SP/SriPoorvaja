@@ -3,21 +3,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Business Analyst-%230073b9?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data Analyst-%234B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-%2300C5FF?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300C853?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
-  <b>Transforming Data into Strategic Insights | Dashboard Developer | Cloud Data Engineer</b>
+  <b>Transforming Data into Strategic Insights | Dashboard Developer</b>
 </p>
 
 ---
 
 ## 🔍 About Me
 
-🎓 Master’s in Information Systems & Technologies, University of North Texas (2024)  
+🎓 Master’s in Information Systems & Technologies, University of North Texas
 💼 4+ years in Business & Data Analysis across healthcare, banking, and insurance  
-📈 Expert in BI, SQL, Python, Tableau, and Snowflake  
+📈 Expert in BI, SQL, Python, Tableau
 🌎 Passionate about solving real-world business problems using data
 
 ---
