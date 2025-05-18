@@ -40,7 +40,8 @@
 ## 💼 Featured Projects
 
 ### 📊 TCRD Risk Dashboard Migration
-<img src="https://your-dashboard-image-url-1.png" alt="TCRD Risk Dashboard" width="600"/>
+<img src="https://i.postimg.cc/j2DRFM4G/Chat-GPT-Image-May-18-2025-04-12-24-PM.png" alt="TCRD Risk Dashboard" width="600"/>
+<img src="https://i.postimg.cc/59RDfBJN/Chat-GPT-Image-May-18-2025-04-19-18-PM.png" alt="TCRD Risk Dashboard" width="600"/>
 - Automated risk scoring using Python & Tableau  
 - ⏱ Reduced risk assessment time by **40%**
 
